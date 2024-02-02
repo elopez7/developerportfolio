@@ -143,6 +143,8 @@ params:
           url: https://github.com/elopez7
         - icon: fab fa-brands fa-youtube
           url: https://www.youtube.com/channel/UCO2xLaPIGbcJRlP38rLw9dg
+        - icon: fab fa-brands fa-linkedin
+          url: https://www.linkedin.com/in/elopez7/
       customIcons:
         - icon: /fav.png
           url: "https://example.com"
@@ -151,21 +153,18 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a software developer with a passion for C++ development. Because of my strong interest in the intersection of technology and art I also develop video games in Unreal Engine. I am currently working as a C++ developer at [Race Roster.](https://raceroster.com/) in London, ON. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "C++"
+        - "Qt Framework"
+        - "Unreal Engine"
 
   # Experience
   experience:
@@ -234,7 +233,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
