@@ -303,7 +303,7 @@ params:
     items:
       - title: Meteo 3
         content: A simple weather application created in Qt that connects to OpenWeatherMap.
-        image: /images/projects/profile.png
+        image: /images/projects/meteo.png
         featured:
           name: Demo
           link: https://meteo3web.netlify.app/
@@ -317,7 +317,7 @@ params:
 
       - title: QtShark Attack
         content: A Qt application that generates an amortization schedule for a simple interest loan.
-        image: /images/projects/converter.jpg
+        image: /images/projects/shark.png
         featured:
           name: Demo
           link: https://qsharkattack.netlify.app/
