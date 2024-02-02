@@ -145,9 +145,9 @@ params:
           url: https://www.youtube.com/channel/UCO2xLaPIGbcJRlP38rLw9dg
         - icon: fab fa-brands fa-linkedin
           url: https://www.linkedin.com/in/elopez7/
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+      #customIcons:
+      #  - icon: /fav.png
+      #    url: "https://example.com"
 
   # About
   about:
@@ -168,7 +168,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - job: "Senior Software Developer"
