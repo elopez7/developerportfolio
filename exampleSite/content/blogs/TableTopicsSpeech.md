@@ -8,7 +8,7 @@ tags:
   - Toastmasters
   - Table Topics
   - Speech
-image: /images/hero.jpg
+image: /images/international.jpg
 description: ""
 toc:
 ---

@@ -8,7 +8,7 @@ tags:
   - Game Development
   - Unreal Engine
   - Game Jam
-image: /images/hero.jpg
+image: /images/me.jpg
 description: ""
 toc: 
 ---
