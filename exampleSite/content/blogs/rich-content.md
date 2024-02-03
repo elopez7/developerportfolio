@@ -49,7 +49,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 {{</* youtube w7Ft2ymGmfc */>}}
 ```
 <br>
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube MawuB4ZrLLY&t >}}
 <br>
 
 ## Theme Custom Shortcodes
