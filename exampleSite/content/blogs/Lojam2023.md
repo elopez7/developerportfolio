@@ -1,6 +1,6 @@
 ---
 title: "London Gamejam"
-date: 2024-03-02T19:53:33+05:30
+date: 2024-02-02T19:53:33+05:30
 draft: false
 author: "Esteban Lopez"
 tags:

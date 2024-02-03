@@ -1,6 +1,6 @@
 ---
 title: "Table Topics and Speech Contest"
-date: 2024-03-02T23:29:21+05:30
+date: 2024-02-02T23:29:21+05:30
 draft: false
 github_link: ""
 author: "Esteban Lopez"
