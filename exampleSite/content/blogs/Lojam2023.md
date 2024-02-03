@@ -26,5 +26,5 @@ I admitedly bit more than I could chew and unfortunately, my game was not finish
 There were lots of cool projects and a plenty of talented people showcasing their games and skills!
 Here is a video for the trailer of the game I made.
 
-{{< youtube MawuB4ZrLLY&t >}} 
+{{< youtube MawuB4ZrLLY >}} 
 
