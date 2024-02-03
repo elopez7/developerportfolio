@@ -15,7 +15,7 @@ toc:
 
 ## London Gamejam
 
-From October 21st to October 28th, 2023 I participated in [Lojam](https://itch.io/jam/lojam-2023)
+From October 21st to October 28th, 2023 I participated in 
 <br>
 In this event you are given a week to create a video game based on a certain theme.
 This year's theme was growth.
@@ -26,7 +26,5 @@ I admitedly bit more than I could chew and unfortunately, my game was not finish
 There were lots of cool projects and a plenty of talented people showcasing their games and skills!
 Here is a video for the trailer of the game I made.
 
-<br>
-{{< youtube MawuB4ZrLLY&t >}}
-<br>
+
 
