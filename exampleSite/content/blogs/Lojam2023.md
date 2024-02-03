@@ -4,13 +4,13 @@ date: 2024-03-02T19:53:33+05:30
 draft: false
 author: "Esteban Lopez"
 tags:
-  - Markdown syntax
-  - Mathjax
-  - example
+  - Lojam
+  - Game Development
+  - Unreal Engine
+  - Game Jam
 image: /images/me.jpg
 description: ""
-toc: true
-mathjax: true
+toc: 
 ---
 
 ## London Gamejam

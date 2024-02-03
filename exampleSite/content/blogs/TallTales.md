@@ -2,7 +2,7 @@
 title: "Toastmasters Tall Tales Contest"
 date: 2024-02-02T22:53:58+05:30
 draft: false
-github_link: "https://github.com/gurusabarish/hugo-profile"
+github_link: ""
 author: "Esteban Lopez"
 tags:
   - Toastmasters
