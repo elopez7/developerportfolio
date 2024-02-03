@@ -8,7 +8,7 @@ tags:
   - Toastmasters
   - Talltales
   - Speech
-image: /images/hero.jpg
+image: /images/herocrop.jpg
 description: ""
 toc: 
 ---
