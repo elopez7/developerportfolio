@@ -6,7 +6,7 @@ command = 'hugo --gc --minify --themesDir ../..'
 HUGO_VERSION = "0.125.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-HUGO_THEME = "hugo-profile"
+HUGO_THEME = "themes/hugo-profile"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo --themesDir ../.."
@@ -14,14 +14,14 @@ command = "hugo --gc --minify --enableGitInfo --themesDir ../.."
 [context.split1.environment]
 HUGO_VERSION = "0.125.0"
 HUGO_ENV = "production"
-HUGO_THEME = "hugo-profile"
+HUGO_THEME = "themes/hugo-profile"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture --themesDir ../.. -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.125.0"
-HUGO_THEME = "hugo-profile"
+HUGO_THEME = "themes/hugo-profile"
 
 [context.branch-deploy]
 command = "hugo --gc --minify --themesDir ../.. -b $DEPLOY_PRIME_URL"
