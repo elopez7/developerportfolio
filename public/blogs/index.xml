@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Esteban Lopez Portfolio</title>
+    <title>Blogs on Esteban Lopez</title>
     <link>http://localhost:1313/blogs/</link>
-    <description>Recent content in Blogs on Esteban Lopez Portfolio</description>
+    <description>Recent content in Blogs on Esteban Lopez</description>
     <generator>Hugo 0.125.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Feb 2024 19:53:33 +0530</lastBuildDate>
