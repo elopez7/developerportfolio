@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Table Topics on Esteban Lopez Portfolio</title>
+    <link>http://localhost:1313/tags/table-topics/</link>
+    <description>Recent content in Table Topics on Esteban Lopez Portfolio</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/table-topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Table Topics and Speech Contest</title>
+      <link>http://localhost:1313/blogs/tabletopicsspeech/</link>
+      <pubDate>Fri, 02 Feb 2024 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/tabletopicsspeech/</guid>
+      <description>Table Topics and Speech Contest On December 5th, 2023 I had the pleasure to participate in two Toastmasters constests organized by my current club, First Class Toastmasters. The first contest was Table Topics, this is where you are given a prompt and have to give a mini speech about that prompt, there is no preparation and you don&amp;rsquo;t know that prompt until the very last moment. If there are other contestants, then they will have to wait outside the room where they can&amp;rsquo;t be hinted about what the prompt is.</description>
+    </item>
+  </channel>
+</rss>

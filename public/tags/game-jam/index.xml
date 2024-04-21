@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Jam on Esteban Lopez Portfolio</title>
+    <link>http://localhost:1313/tags/game-jam/</link>
+    <description>Recent content in Game Jam on Esteban Lopez Portfolio</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Feb 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>London Gamejam</title>
+      <link>http://localhost:1313/blogs/lojam2023/</link>
+      <pubDate>Fri, 02 Feb 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/lojam2023/</guid>
+      <description>London Gamejam From October 21st to October 28th, 2023 I participated in In this event you are given a week to create a video game based on a certain theme. This year&amp;rsquo;s theme was growth. I created a prototype for a stealth game where you are trying to infiltrate a building on fire to retrieve a very important item from your apartment. I admitedly bit more than I could chew and unfortunately, my game was not finish on time.</description>
+    </item>
+  </channel>
+</rss>

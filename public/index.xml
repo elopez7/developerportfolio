@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteban Lopez Portfolio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Esteban Lopez Portfolio</description>
+    <generator>Hugo 0.125.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Feb 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Qt</title>
+      <link>http://localhost:1313/blogs/introtoqt/</link>
+      <pubDate>Sun, 04 Feb 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/introtoqt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Table Topics and Speech Contest</title>
+      <link>http://localhost:1313/blogs/tabletopicsspeech/</link>
+      <pubDate>Fri, 02 Feb 2024 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/tabletopicsspeech/</guid>
+      <description>Table Topics and Speech Contest On December 5th, 2023 I had the pleasure to participate in two Toastmasters constests organized by my current club, First Class Toastmasters. The first contest was Table Topics, this is where you are given a prompt and have to give a mini speech about that prompt, there is no preparation and you don&amp;rsquo;t know that prompt until the very last moment. If there are other contestants, then they will have to wait outside the room where they can&amp;rsquo;t be hinted about what the prompt is.</description>
+    </item>
+    <item>
+      <title>Toastmasters Tall Tales Contest</title>
+      <link>http://localhost:1313/blogs/talltales/</link>
+      <pubDate>Fri, 02 Feb 2024 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/talltales/</guid>
+      <description>I won first prize in the talltales contest oganized by First Class Toastmasters in September 20th, 2023.&#xA;Tall Tales A tall tale is a story that contains unbelievable elements told as if they were true and factual. The book The Adventures of Baron Munchausen would be the greatest example of a compilation of tall tales as the main character Baron Munchausen tells stories of his travels exagerating the truth a tiny bit.</description>
+    </item>
+    <item>
+      <title>London Gamejam</title>
+      <link>http://localhost:1313/blogs/lojam2023/</link>
+      <pubDate>Fri, 02 Feb 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/blogs/lojam2023/</guid>
+      <description>London Gamejam From October 21st to October 28th, 2023 I participated in In this event you are given a week to create a video game based on a certain theme. This year&amp;rsquo;s theme was growth. I created a prototype for a stealth game where you are trying to infiltrate a building on fire to retrieve a very important item from your apartment. I admitedly bit more than I could chew and unfortunately, my game was not finish on time.</description>
+    </item>
+    <item>
+      <title>Image Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
